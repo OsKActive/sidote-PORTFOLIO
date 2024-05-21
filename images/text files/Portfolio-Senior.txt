@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/seniorYear.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">SENIOR YEAR</span></h2>
+    <p class="tagline">My achievements and development in I.T during senior year</p>
+  </section>
+  <!-- About Section -->
+  
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column">
+      <h3>NINTENDO SWITCH CONTROLLER ATTACHMENT</h3>
+      <img src="images/switch holder_3.png" alt="" width="400" height="200" class="cards"/>
+    </article>
+    <article class="footer_column">
+      <h3>DOWNLOAD MAC.OS ON WINDOWS</h3>
+      <img src="images/mac1.jpeg" alt="" width="400" height="200" class="cards2"/>
+	  <img src="images/mac2.jpeg" alt="" width="400" height="200" class="cards2"/>
+    </article>
+	 <article class="footer_column">
+      <h3>FIX WATER PUMP</h3>
+      <img src="images/fix pump.jpeg" alt="" width="400" height="200" class="cards2"/>
+	  <img src="images/fixed pump.jpeg" alt="" width="400" height="200" class="cards2"/>
+    </article>
+	  <article class="footer_column">
+      <h3>ASSEMBLING A 3D PRINTER</h3>
+      <img src="images/printer1.jpeg" alt="" width="400" height="200" class="cards3"/>
+	  <img src="images/printer2.jpeg" alt="" width="400" height="200" class="cards3"/>
+	  <img src="images/printer3.jpeg" alt="" width="400" height="200" class="cards3"/>
+    </article>
+	  <article class="footer_column">
+      <h3>MOUSE BAIT STATION</h3>
+      <img src="images/bait station.png" alt="" width="400" height="200" class="cards"/>
+    </article>
+	   <article class="footer_column">
+      <h3>MY PORTFOLIO</h3>
+      <img src="images/cad.png" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/filament.png" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/freshman.jpeg" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/glass blowing.jpeg" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/news article.png" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/awards.png" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/vinal.jpg" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/Smartboard work.jpeg" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/done robot.jpeg" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/resume.jpg" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/StJames.jpg" alt="" width="400" height="200" class="cards4"/>
+      <img src="images/typing.jpeg" alt="" width="400" height="200" class="cards4"/>
+    </article>
+	 <article class="footer_column">
+      <h3>SENIOR PROJECT (CLICK BELOW)</h3>
+      <a href="Portfolio-Project.html"><img src="images/done robot.jpeg" alt="" width="400" height="200" class="cards"/></a>
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
+

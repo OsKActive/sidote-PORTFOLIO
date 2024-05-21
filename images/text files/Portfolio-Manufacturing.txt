@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/manufacturing.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">MANUFACTURING AND ENGINEERING</span></h2>
+    <p class="tagline">The evolution of my 3D prints and other projects during my time in high school</p>
+  </section>
+  <!-- About Section -->
+  
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column">
+      <h3>FLAME THROWING RING</h3>
+      <img src="images/Manufacturing/flamethrower1.jpeg" alt="" width="400" height="200" class="cards2"/>
+      <img src="images/Manufacturing/flamethrower2.jpeg" alt="" width="400" height="200" class="cards2"/>
+	  <img src="images/Manufacturing/flamethrower3.jpeg" alt="" width="400" height="200" class="cards2"/>
+		 <video width="1200vw" height="auto" class="cards2" controls>
+  		<source src="images/Manufacturing/flamethrower.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	  </video>
+    </article>
+    <article class="footer_column">
+      <h3>CHESS BOARD</h3>
+      <img src="images/Manufacturing/chess.jpeg" alt="" width="400" height="200" class="cards"/>
+    </article>
+	  <article class="footer_column">
+      <h3>GUNPOWDER BARREL (MODEL IN THE 3D MODELING TAB)</h3>
+      <img src="images/Manufacturing/boom barrel.jpeg" alt="" width="400" height="200" class="cards"/>
+    </article>
+	  <article class="footer_column">
+      <h3>SMALL PRINTS ON MY OWN PRINTER</h3>
+      <img src="images/Manufacturing/gengar.jpeg" alt="" width="400" height="200" class="cards3"/>
+	  <img src="images/Manufacturing/pikachu.jpeg" alt="" width="400" height="200" class="cards3"/>
+	  <img src="images/Manufacturing/halo stand.jpeg" alt="" width="400" height="200" class="cards3"/>
+	  <img src="images/Manufacturing/venom.jpeg" alt="" width="400" height="200" class="cards3"/>
+	  <img src="images/Manufacturing/taco bug.jpeg" alt="" width="400" height="200" class="cards3"/>
+    </article>
+	  <article class="footer_column">
+      <h3>CARD HOLDER</h3>
+      <img src="images/Manufacturing/card holder model.png" alt="" width="400" height="200" class="cards2"/>
+	  <img src="images/Manufacturing/card holder.jpeg" alt="" width="400" height="200" class="cards2"/>
+    </article>
+	  <article class="footer_column">
+      <h3>RUBBER BAND GUNS</h3>
+      <img src="images/Manufacturing/revolver.jpeg" alt="" width="400" height="200" class="cards2"/>
+	  <img src="images/Manufacturing/lever action.jpeg" alt="" width="400" height="200" class="cards2"/>
+	  <video width="1200vw" height="auto" class="cards2" controls>
+  		<source src="images/Manufacturing/slomo revolver.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	  </video>
+	  <video width="1200vw" height="auto" class="cards2" controls>
+  		<source src="images/Manufacturing/revolver fire.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	  </video>
+    </article>
+	<article class="footer_column">
+      <h3>DISPLAY PIECES</h3>
+      <img src="images/Manufacturing/gow axe.jpeg" alt="" width="400" height="200" class="cards3"/>
+	  <img src="images/Manufacturing/Ragnarok.jpeg" alt="" width="400" height="200" class="cards3"/>
+    </article>
+	  <article class="footer_column">
+      <h3>MODEL BATTLEBOTS</h3>
+      <img src="images/Junior/HUGE.png" alt="" width="400" height="200" class="cards2"/>
+	  <img src="images/Junior/ribbot.png" alt="" width="400" height="200" class="cards2"/>
+    </article>
+	  <article class="footer_column">
+      <h3>NINTENDO SWITCH ATTACHMENT</h3>
+      <img src="images/switch holder_3.png" alt="" width="400" height="200" class="cards"/>
+    </article>
+	  <article class="footer_column">
+      <h3>MOUSE BAIT STATION</h3>
+      <img src="images/bait station.png" alt="" width="400" height="200" class="cards"/>
+    </article>
+	  <article class="footer_column">
+      <h3>SENIOR PROJECT (CLICK BELOW)</h3>
+      <a href="Portfolio-Project.html"><img src="images/done robot.jpeg" alt="" width="400" height="200" class="cards"/></a>
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/resume.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">RESUME</span></h2>
+    <p class="tagline">My up to date resume</p>
+  </section>
+  <!-- About Section -->
+  <section>
+    	<iframe src="images/Resume.pdf" width="100%" height="1200px"></iframe>
+	</section>
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+<!-- Main Container Ends -->
+</body>
+</html>

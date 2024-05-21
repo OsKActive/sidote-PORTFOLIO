@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/sophomoreYear.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">SOPHOMORE YEAR</span></h2>
+    <p class="tagline">My achievements and development in I.T during sophomore year</p>
+  </section>
+  <!-- About Section -->
+  
+  <footer>
+    <article class="footer_column">
+      <h3>LIVE OS AND VM MANAGEMENT</h3>
+      <img src="images/Sophomore/sophomore_1.png" alt="" width="400" height="200" class="cards"/>
+      
+    </article>
+    <article class="footer_column">
+      <h3>ADD DOMAIN ACCOUNT AS A LOCAL ADMINISTRATOR</h3>
+      <img src="images/Sophomore/sophomore_2.png" alt="" width="400" height="200" class="cards2"/>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>HOW TO JOIN A DOMAIN AND ACTIVATE HYPER-V TUTORIALS</h3>
+       <video width="50%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore 3_1.mp4" type="video/mp4" class="cards2">
+		 Your browser does not support the video tag.
+	  </video>
+		  <video width="50%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore 3_2.mp4" type="video/mp4" class="cards2">
+		 Your browser does not support the video tag.
+	  </video>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>MAKE A BACKUP IMAGE IN MACRIUM REFLECT TUTORIAL</h3>
+      <video width="50%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore_4.mp4" type="video/mp4">
+		 Your browser does not support the video tag.
+	  </video>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>ADOBE PREMIERE PRO</h3>
+		 <video width="50%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore_5.mp4" type="video/mp4">
+		 Your browser does not support the video tag.
+	  </video>
+      <img src="images/Sophomore/sophomore_5.png" alt="" width="400" height="200" class="cards3"/>
+      
+    </article>
+    <article class="footer_column">
+      <h3>BASIC WINDOWS SERVER SETUP</h3>
+      <img src="images/Sophomore/sophomore_6.png" alt="" width="400" height="200" class="cards"/>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>GROUP POLICY IN WINDOWS SERVER</h3>
+      <video width="50%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore_7.mp4" type="video/mp4" class="cards2">
+		 Your browser does not support the video tag.
+	  </video>
+      <img src="images/Sophomore/sophomore_7.png" alt="" width="400" height="200" class="cards"/>
+      
+    </article>
+    <article class="footer_column">
+      <h3>DEPLOY A PRINTER WITH GROUP POLICY</h3>
+      <img src="images/Sophomore/sophomore_8.png" alt="" width="400" height="200" class="cards"/>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>MAKE A WORKING ETHERNET CABLE</h3>
+      <video width="50%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore_9.mp4" type="video/mp4" class="cards2">
+		 Your browser does not support the video tag.
+	  </video>
+      <img src="images/Sophomore/sophomore_9.png" alt="" width="400" height="200" class="cards2"/>
+     
+    </article>
+    <article class="footer_column">
+      <h3>INSTALL DRIVERS, AN INTERNAL APP, AND AN EXTERNAL APP ON LINUX</h3>
+      <img src="images/Sophomore/sophomore_10.png" alt="" width="400" height="200" class="cards"/>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>BASIC COMMANDS IN LINUX</h3>
+      <img src="images/Sophomore/sophomore_11.png" alt="" width="400" height="200" class="cards"/>
+      
+    </article>
+    <article class="footer_column">
+      <h3>SKIP THE OOBE EXPERIENCE ON WINDOWS 10 TUTORIAL</h3>
+      <video width="100%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore_12.mp4" type="video/mp4">
+		 Your browser does not support the video tag.
+	  </video>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>3D MODELING IN BLENDER (MORE IN THE 3D MODELING TAB)</h3>
+      <img src="images/frog_6.png" alt="" width="400" height="200" class="cards2"/>
+		 <img src="images/barrel_4.png" alt="" width="400" height="200" class="cards2"/>
+		  <img src="images/drunk barrel_5.png" alt="" width="400" height="200" class="cards2"/>
+		  <img src="images/mushroom house_3.png" alt="" width="400" height="200" class="cards2"/>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>3D ANIMATION IN BLENDER</h3>
+      <video width="100%" height="auto" controls>
+  		<source src="images/Sophomore/sophomore_13.mp4" type="video/mp4">
+		 Your browser does not support the video tag.
+	  </video>
+      
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
+

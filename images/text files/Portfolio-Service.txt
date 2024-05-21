@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/communityService.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">COMMUNITY SERVICE AND WORK EXPERIENCE</span></h2>
+    <p class="tagline">Experience I've gained from helping my community</p>
+  </section>
+  <!-- About Section -->
+  <section class="about" id="about">
+	 <div class="text_column">
+    	<h2 class="cad_head">Middletown Senior Center</h2>
+    	<p>As a class our shop instructor would take us to Middletown Senior Center where we would offer free help desk services to anyone that needed it. This consisted of people bringing in their own devices that they were having issues with, sitting down with someone, and explaining their problem. The person helping would then fix the issue, explaining all of the steps so if it were to happen again the customer would know what to do by themself.</p>
+	</div>
+	<div class="text_column">
+		<h2 class="cad_head">St. Josephine Bakhita Parish</h2>
+    	<p>St. Josephine Bakhita Parish is my local church and I have done a variety of different volunteer work. I have collected, counted, and organized donations, made gifts out of socks, candy, and granola bars for prisoners and the homeless, and helped oversee children's religious workshops.</p>
+	</div>
+	<div class="text_column">
+		<h2 class="cad_head">CT Foodshare</h2>
+    	<p>At CT Foodshare I spent time with other community members packing fruits, vegetables, non-perishables, and dairy products making sure that they weren't rotten, expired, or damaged. This food was then stored by workers and distributed to people that needed it.</p>
+	</div>
+	
+	<div class="text_column">
+		<h2 class="cad_head">Wreaths Across America</h2>
+    	<p>At School, the carpentry, I.T, and electrical shops were taken to the State Veterans Cemetery in Middletown, CT. While there we set up boxes of wreaths to be set up for a Christmas celebration that took place a few days later.</p>
+	</div>
+  </section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail">
+      <h1 class="stats">24</h1>
+      <h4>HOURS</h4>
+      <p>Middletown Senior Center</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">18</h1>
+      <h4>HOURS</h4>
+      <p>St. Josephine Bakhita Parish</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">5</h1>
+      <h4>HOURS</h4>
+      <p>CT Foodshare</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">2</h1>
+      <h4>HOURS</h4>
+      <p>Wreaths Across America</p>
+	  </div>
+    </div>
+  <!-- Parallax Section -->
+  <section class="banner">
+    <h2 class="parallax">WEST SIDE MARKETPLACE</h2>
+    <p class="parallax_description">Everyday at my job as a baker at West Side Marketplace I set up all of the bread and muffins to be baked for the next day, package rolls, clean the tables and floor, and take out the trash. Pictured below are things I interact with daily with descriptions.</p>
+  </section>
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column">
+      <h3>HAND TRUCK</h3>
+      <img src="images/Work Photos/boxTruck.jpeg" alt="" width="auto" height="600vw" class="cards"/>
+      <p>This hand truck has all of the boxes of rolls that I need for the day on it. I start everyday by pulling it out of the freezer, setting up pans and racks for myself, and grabbing anything else I'll need such as cornmeal. When I'm done with the panning list I push it back into the freezer to keep the dough from going bad.</p>
+    </article>
+    <article class="footer_column">
+      <h3>FREEZER</h3>
+      <img src="images/Work Photos/freezer.png" alt="" width="auto" height="600vw" class="cards"/>
+      <p>The freezer in the bakery contains all of the boxes of products that we sell and two hand trucks (one for the morning shift and one for the night shift). Every employee goes in the freezer multiple times during their shift to get new boxes, pull out a hand truck, store cake decorations, etc.</p>
+    </article>
+	  <article class="footer_column">
+      <h3>PANNING LIST</h3>
+      <img src="images/Work Photos/list.png" alt="" width="auto" height="600vw" class="cards"/>
+      <p>The panning list is made everyday by the head bakers based on what they think will be in demand and sell the best the next day. When I go to work the list is given to me to finish before my shift is done.</p>
+    </article>
+	  <article class="footer_column">
+      <h3>LABELS AND ROLLS</h3>
+      <img src="images/Work Photos/labelsWithBread.png" alt="" width="auto" height="600vw" class="cards"/>
+      <p>After I finish setting up for the next day I have to bag and label every extra roll that is left or didn't fit in the bins at the end of the day. All of these rolls were made in the morning and will be stocked.</p>
+    </article>
+	    <article class="footer_column">
+      <h3>ROLLS LAYED OUT</h3>
+      <img src="images/Work Photos/breadWideShot.jpeg" alt="" width="auto" height="600vw" class="cards"/>
+      <p>I lay out the rolls in this organized fashion to easily count how many bags of each roll there are, label each bag, and take them to the shelves to stock.</p>
+    </article>
+	  <article class="footer_column">
+      <h3>TRASH CART</h3>
+      <img src="images/Work Photos/2trashCart.png" alt="" width="auto" height="600vw" class="cards"/>
+      <p>Lastly, I clean the tables, sweep and mop the floors, and bring all of the trash from the day to the trash compactor on a cart.</p>
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
+

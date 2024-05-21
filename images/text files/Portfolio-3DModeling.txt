@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/3dModeling.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <p class="hero_header"><span class="light">3D MODELING</span></p>
+    <p class="tagline">The progression of my 3D modeling skills throughout my high school career</p>
+  </section>
+  <!-- About Section -->
+  <section class="about" id="about">
+	 <div class="text_column">
+    	<h2 class="cad_head">Blender</h2>
+    	<p>Blender was the first 3D modeling software I used and it sparked my intrest in CAD design. I started by watching YouTube videos on the basics of blender and when I got comfortable with it I tried to start modeling without tutorials. After almost a year I realized that Blender's artistic focused features were fun but wasn't the kind of work I wanted to do with 3D modeling.</p>
+	</div>
+	<div class="text_column">
+		<h2 class="cad_head">Inventor</h2>
+    	<p>Autodsek Inventor was recommended to me by my IT instructor when he saw the work I was interested in. Inventor is now the main CAD software I use and have been using it for over a year. The first things I made were tabletop replicas of real robots that compete in the show. As time progressed I started modeling functional things to 3D print that would solve a problem in my everyday life. I also use Inventor to make or prototype parts to fix or build projects. </p>
+	</div>
+	<div class="text_column">
+		<h2 class="cad_head">Aspire</h2>
+    	<p>Aspire is software that I use if I need a part made of a material like wood or foam to be cut using CNC. The main thing I use Aspire to do is convert models I made in Inventor to gcode that can be read by the mill. Though I don't use it often, Aspire does have modeling capabilities and can be used in a number of creative and useful ways. </p>
+	</div>
+  </section>
+  <!-- Stats Gallery Section -->
+  
+  <!-- Parallax Section -->
+  <section class="banner">
+    <h2 class="parallax">MY WORK</h2>
+    <p class="parallax_description">The slideshows below are my projects in Blender and Inventor starting from the beginning.</p>
+  </section>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+.mySlides1, .mySlides2 {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1250px;
+  position: relative;
+  margin: auto;
+  resize: both;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+</style>
+<body>
+
+
+<h1 style="text-align:center">Blender</h1>
+<div class="slideshow-container">
+  <div class="mySlides1">
+    <img src="images/springtrap_1.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Springtrap (Five Nights at Freddy's)</h2>
+  </div>
+
+  <div class="mySlides1">
+    <img src="images/keyblade_2.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Keyblade (Kingdom Hearts)</h2>
+  </div>
+
+  <div class="mySlides1">
+    <img src="images/mushroom house_3.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Mushroom House</h2>
+  </div>
+	
+  <div class="mySlides1">
+    <img src="images/barrel_4.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Stronghold Gunpowder Barrel (Sea of Thieves)</h2>
+  </div>
+	<div class="mySlides1">
+    <img src="images/drunk barrel_5.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Chest of a Thousand Grogs (Sea of Thieves)</h2>
+  </div>
+	<div class="mySlides1">
+    <img src="images/frog_6.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Frog in a wheelchair</h2>
+  </div>
+	<div class="mySlides1">
+    <img src="images/stoutland_7.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Stoutland (Pokemon)</h2>
+  </div>
+	<div class="mySlides1">
+    <img src="images/dubwool_8.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Dubwool (Pokemon)</h2>
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+</div>
+
+<h1 style="text-align:center">Inventor</h1>
+<div class="slideshow-container">
+  <div class="mySlides2">
+    <img src="images/huge_1.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">HUGE (Battlebots)</h2>
+  </div>
+
+  <div class="mySlides2">
+    <img src="images/ribbot_2.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Ribbot (Battlebots)</h2>
+  </div>
+
+  <div class="mySlides2">
+    <img src="images/switch holder_3.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Nintendo Switch controller attachment</h2>
+  </div>
+	<div class="mySlides2">
+    <img src="images/robot parts_4.png" style="width:100%" height="550vw">
+	  <h2 style="text-align:right">Parts for my robot (Details and more in the senior project tab)</h2>
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
+</div>
+
+<script>
+let slideIndex = [1,1];
+let slideId = ["mySlides1", "mySlides2"]
+showSlides(1, 0);
+showSlides(1, 1);
+
+function plusSlides(n, no) {
+  showSlides(slideIndex[no] += n, no);
+}
+
+function showSlides(n, no) {
+  let i;
+  let x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}    
+  if (n < 1) {slideIndex[no] = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex[no]-1].style.display = "block";  
+}
+</script>
+  <!-- More Info Section -->
+  
+  <!-- Footer Section -->
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+<!-- Main Container Ends -->
+</body>
+</html>
+

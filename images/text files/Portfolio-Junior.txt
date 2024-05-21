@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/juniorYear.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">JUNIOR YEAR</span></h2>
+    <p class="tagline">My achievements and development in I.T during junior year</p>
+  </section>
+  <!-- About Section -->
+ 
+  <footer>
+    <article class="footer_column">
+      <h3>ADOBE ILLUSTRATOR</h3>
+      <img src="images/Junior/aegislash.png" alt="" width="" height="" class="cards2"/>
+	  <img src="images/Junior/ball.png" alt="" width="400" height="200" class="cards2"/>
+      
+    </article>
+    <article class="footer_column">
+      <h3>CREATE WORKING VDI ON PHYSICAL HARDWARE</h3>
+      <img src="images/Junior/VDI.png" alt="" width="400" height="200" class="cards2"/>
+	  <video width="1200vw" height="auto" class="cards2" controls>
+  		<source src="images/Junior/VDI Video.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	  </video>
+    
+    </article>
+	  <article class="footer_column">
+      <h3>MAKE LYRIC VIDEOS IN PREMIERE PRO</h3>
+      <video width="1200vw" height="auto" class="cards2" controls>
+  		<source src="images/Junior/Africa.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	  </video>
+	  <video width="1200vw" height="auto" class="cards2" controls>
+  		<source src="images/Junior/Piano Man.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	  </video>
+     
+    </article>
+	  <article class="footer_column">
+      <h3>CREATE A LOGO IN PHOTOSHOP</h3>
+      <img src="images/Junior/Sidote's Plastics.png" alt="" width="" height="" class="cards2"/>
+    </article>
+	  <article class="footer_column">
+      <h3>USE MICROSOFT OFFICE TO PLAN A BUSINESS</h3>
+       <iframe src="images/Junior/Sidote's Plastics Poster.pdf" alt="" width="3vw" height="500vw" class="cards3"></iframe>
+	   <iframe src="images/Junior/Sidote's Plastics Press Release.pdf" alt="" width="3vw" height="500vw" class="cards3"></iframe>
+	   <iframe src="images/Junior/Sidote's Plastics PowerPoint.pdf" alt="" width="3vw" height="500vw" class="cards3"></iframe>
+	   <iframe src="images/Junior/Sidote's Plastics Spreadsheet.png" alt="" width="3vw" height="500vw" class="cards3"></iframe>
+    </article>
+	  <article class="footer_column">
+      <h3>AP CSP CREATE TASK (CLICK BELOW)</h3>
+      <a href="RPS2/index.html"><img src="images/Junior/html.png" alt="" width="" height="" class="cards2"/></a>
+	  <div>
+	  <img src="images/Junior/css.png" alt="" width="400" height="200" class="cards2"/>
+      <img src="images/Junior/js.png" alt="" width="400" height="200" class="cards2"/>
+	  </div>
+    </article>
+	   <article class="footer_column">
+      <h3>OMNIFOODS</h3>
+      <a href="omnifoods/09-Omnifood-Optimizations/index.html"><img src="omnifoods/09-Omnifood-Optimizations/img/omnifood-logo.png" alt="" width="" height="" class="cards"/></a>
+    </article>
+	  <article class="footer_column">
+      <h3>3D PRINTED BATTLEBOTS MODELS (INVENTOR FILES IN THE 3D MODELING TAB)</h3>
+      <img src="images/Junior/HUGE.png" alt="" width="" height="" class="cards2"/>
+	  <img src="images/Junior/ribbot.png" alt="" width="400" height="200" class="cards2"/>
+      
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>

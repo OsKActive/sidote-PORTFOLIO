@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/freshmanYear.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">FRESHMAN YEAR</span></h2>
+    <p class="tagline">My achievements and development in I.T during freshman year</p>
+  </section>
+  <!-- About Section -->
+  
+  <footer>
+    <article class="footer_column">
+      <h3>CREATED A SERVER FOLDER AND MAPPED IT TO MY PC</h3>
+      <img src="images/Freshman/Freshman_1.png" alt="" width="10vw" height="1vw" class="cards"/>
+     
+    </article>
+    <article class="footer_column">
+      <h3>CREATED A WINDOWS 10 VIRTUAL MACHINE</h3>
+      <video width="1200vw" height="auto" class="cards" controls>
+  		<source src="images/Freshman/Freshman_2.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	  </video>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>DESCRIBED THE DIFFERENCE OF FEATURES BETWEEN WINDOWS 7, 8, AND 10</h3>
+      <iframe src="images/Freshman/Freshman_3 doc.pdf" alt="" width="3vw" height="500vw" class="cards3"></iframe>
+	  <iframe src="images/Freshman/Freshman_3 slides.pdf" alt="" width="3vw" height="500vw" class="cards3"></iframe>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>INSTALLED WINDOWS 7 ON A PHYSICAL MACHINE</h3>
+      <img src="images/Freshman/Freshman_4.png" alt="" width="4vw" height="6vw" class="cards2"/>
+      
+    </article>
+	  <article class="footer_column">
+      <h3>INSTALLED WINDOWS 8 ON A PHYSICAL MACHINE WITH DUAL MONITORS</h3>
+       <img src="images/Freshman/Freshman_5.png" alt="" width="4vw" height="6vw" class="cards2">
+      
+    </article>
+	  <article class="footer_column">
+      <h3>BASIC HTML THAT I MADE CONTAINING SIMPLE TAGS (CLICK BELOW)</h3>
+      <a href="Freshman HTML/index.html"><img src="images/html5.png" alt="" width="4vw" height="6vw" class="cards2"></a>
+      
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>

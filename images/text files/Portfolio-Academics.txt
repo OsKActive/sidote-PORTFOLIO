@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sidote Portfolio</title>
+<link href="css/academics.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/Junior/Sidote's Plastics.png">
+</head>
+	
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header>
+    <h4 class="logo">PORTFOLIO</h4>
+    <nav>
+      <ul>
+        <li><a href="Portfolio.html">HOME</a></li>
+		<li><a href="images/Competency Checklist.pdf">COMPETENCY CHECKLIST</a></li>
+        <li> <a href="mailto:sidotej551@gmail.com">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><span class="light">ACADEMICS</span></h2>
+    <p class="tagline">My academic transcripts and achievements throughout high school</p>
+  </section>
+  <!-- About Section -->
+  <section class="about" id="about">
+	 <div class="text_column">
+    	<h2 class="cad_head">Freshman</h2>
+    	<ul>
+			<li>Algebra I: 96%</li>
+			<li>English I: 95%</li> 
+			<li>Lang Arts Literacy Lab: 89%</li> 
+			<li>World History: 97%</li> 
+			<li>General Science 9: 95%</li> 
+			<li>Intro to IST: 92%</li> 
+			<li>Art I: 93%</li> 
+			<li>Health I: 98%</li> 
+			<li>Physical Education I: 100%</li> 
+			<li>Exploratory: 100%</li> 
+		</ul>
+	</div>
+	<div class="text_column">
+		<h2 class="cad_head">Sophomore</h2>
+    	  <ul>
+			<li>Algebra II: 100%</li>
+			<li>Hon Geometry: 100%</li> 
+			<li>Advanced Algebra: 100%</li> 
+			<li>Hon English 10: 93%</li> 
+			<li>Hon Civics/American Government: 92%</li> 
+			<li>Honors Biology I: 97%</li> 
+			<li>Intermediate Software Applications: 93%</li> 
+			<li>Electronic Music I: 90%</li> 
+			<li>Health II: 98%</li> 
+			<li>Physical Education II: 98%</li>
+			<li>Enrichment Topics 10: 88%</li> 
+		</ul>
+	</div>
+	<div class="text_column">
+		<h2 class="cad_head">Junior</h2>
+    	<ul>
+			<li>Pre-Calculus: 100%</li>
+			<li>Hon English 11: 91%</li> 
+			<li>Hon Modern US History: 95%</li> 
+			<li>Hon Chemistry: 97%</li> 
+			<li>Web Design & Intro to Networking: 94%</li> 
+			<li>Art II: 97%</li> 
+			<li>Health III: 99%</li> 
+			<li>Lifetime Activities: 94%</li> 
+			<li>Junior Career Portfolio: 95%</li> 
+		</ul>
+	</div>
+	  <div class="text_column">
+    	<h2 class="cad_head">Senior</h2>
+    	<ul>
+			<li>Statistics: 97%</li>
+			<li>Calculus: N/A</li> 
+			<li>Hon Mythology, Science Fict & Fantasy Lit: N/A</li> 
+			<li>Economics and Law: N/A</li> 
+			<li>Honors Physics: N/A</li> 
+			<li>Advanced Programming & Technical Skills: N/A</li> 
+			<li>Music Applications: N/A</li> 
+			<li>Health IV: N/A</li> 
+			<li>Senior Career Portfolio: N/A</li> 
+		</ul>
+	</div>
+  </section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail">
+      <h1 class="stats">9</h1>
+      <h4>CREDITS</h4>
+      <p>High Honors</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">10.75</h1>
+      <h4>CREDITS</h4>
+      <p>High Honors</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">8.5</h1>
+      <h4>CREDITS</h4>
+      <p>High Honors</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">N/A</h1>
+      <h4>CREDITS</h4>
+      <p>N/A</p>
+    </div>
+  </div>
+  <!-- Parallax Section -->
+ 
+  <!-- Copyrights Section -->
+  <div class="copyright">JOSEPH SIDOTE 2020-2024</div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
